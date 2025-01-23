@@ -2,7 +2,7 @@ Here's a `README.md` file for the `Whatsapp` API documentation:
 
 # Whatsapp Cloud API Integration
 
-This project provides a Node.js class for integrating with the WhatsApp Cloud API. It allows you to send messages, upload media, manage blocked users, and retrieve the business profile.
+This project provides a Node.js/Next.js class for integrating with the WhatsApp Cloud API. It allows you to send messages, upload media, manage blocked users, and retrieve the business profile.
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ To use this API, you need Node.js installed. You also need the `axios`, `fs`, an
 ### Install dependencies:
 
 ```bash
-npm install axios form-data fs
+npm install
 ```
 
 ## Configuration
